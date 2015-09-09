@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GradleWebAppSample-master.iml" filepath="$PROJECT_DIR$/GradleWebAppSample-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dominio/dominio.iml" filepath="$PROJECT_DIR$/dominio/dominio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infraestructura/infraestructura.iml" filepath="$PROJECT_DIR$/infraestructura/infraestructura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/presentacion/presentacion.iml" filepath="$PROJECT_DIR$/presentacion/presentacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/presentacion.iml" filepath="$PROJECT_DIR$/web/presentacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
 </project>
