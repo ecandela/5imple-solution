@@ -12,11 +12,6 @@
           <element id="dir-copy" path="$PROJECT_DIR$/presentacion/build/resources/main" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="GradleWebAppSample-master-utils-unspecified.jar">
-            <element id="module-output" name="utils" />
-            <element id="dir-copy" path="$PROJECT_DIR$/utils/build/resources/main" />
-          </element>
-          <element id="library" level="project" name="Gradle: joda-time:joda-time:2.4" />
           <element id="archive" name="com.simple.plataforma-infraestructura-unspecified.jar">
             <element id="module-output" name="infraestructura" />
             <element id="dir-copy" path="$PROJECT_DIR$/infraestructura/build/resources/main" />
@@ -64,6 +59,10 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.1.6.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.1.6.RELEASE" />
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="archive" name="GradleWebAppSample-master-utils-unspecified.jar">
+            <element id="module-output" name="utils" />
+            <element id="dir-copy" path="$PROJECT_DIR$/utils/build/resources/main" />
+          </element>
         </element>
       </element>
       <element id="directory" name="META-INF">

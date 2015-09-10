@@ -30,7 +30,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="utils" />
     <orderEntry type="module" module-name="infraestructura" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.servlet:servlet-api:2.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
@@ -44,7 +43,6 @@
     <orderEntry type="library" name="Gradle: org.hibernate:hibernate-ehcache:4.3.6.Final" level="project" />
     <orderEntry type="library" name="Gradle: c3p0:c3p0:0.9.1.2" level="project" />
     <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.33" level="project" />
-    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.4" level="project" />
     <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.1" level="project" />
     <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.3" level="project" />
     <orderEntry type="library" name="Gradle: org.aspectj:aspectjweaver:1.8.5" level="project" />
@@ -76,5 +74,6 @@
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:4.1.6.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="module" module-name="dominio" />
+    <orderEntry type="module" module-name="utils" />
   </component>
 </module>
