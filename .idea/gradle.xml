@@ -13,9 +13,7 @@
             <option value="$PROJECT_DIR$/dominio" />
             <option value="$PROJECT_DIR$/infraestructura" />
             <option value="$PROJECT_DIR$/presentacion" />
-            <option value="$PROJECT_DIR$/test" />
             <option value="$PROJECT_DIR$/transversal" />
-            <option value="$PROJECT_DIR$/utils" />
           </set>
         </option>
       </GradleProjectSettings>

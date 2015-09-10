@@ -11,7 +11,6 @@ sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
 dependencies {
-   compile project(":utils")
    compile project(":infraestructura")
    compile project(":dominio")
    compile 'org.springframework.hateoas:spring-hateoas:0.17.0.RELEASE'

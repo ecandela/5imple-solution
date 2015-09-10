@@ -1,4 +1,3 @@
-include ":utils",":infraestructura",":presentacion",":dominio"
-include 'test'
+include ":infraestructura",":presentacion",":dominio"
 include 'transversal'
 

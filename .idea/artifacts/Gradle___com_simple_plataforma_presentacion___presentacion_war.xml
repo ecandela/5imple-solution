@@ -59,10 +59,6 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.1.6.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.1.6.RELEASE" />
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
-          <element id="archive" name="GradleWebAppSample-master-utils-unspecified.jar">
-            <element id="module-output" name="utils" />
-            <element id="dir-copy" path="$PROJECT_DIR$/utils/build/resources/main" />
-          </element>
         </element>
       </element>
       <element id="directory" name="META-INF">
