@@ -1,5 +1,5 @@
-group 'com.simple.plataforma'
-archivesBaseName = 'presentacion'
+group 'io.5imple'
+version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
 apply plugin: "war"

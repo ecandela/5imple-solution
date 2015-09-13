@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aplicacion" />
             <option value="$PROJECT_DIR$/dominio" />
             <option value="$PROJECT_DIR$/infraestructura" />
             <option value="$PROJECT_DIR$/presentacion" />

@@ -1,3 +1,6 @@
 include ":infraestructura",":presentacion",":dominio"
 include 'transversal'
 
+rootProject.name = 'ddd-architecture'
+include 'aplicacion'
+

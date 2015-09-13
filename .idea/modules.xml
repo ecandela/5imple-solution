@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/5imple-plataforma.iml" filepath="$PROJECT_DIR$/5imple-plataforma.iml" />
       <module fileurl="file://$PROJECT_DIR$/GradleWebAppSample-master.iml" filepath="$PROJECT_DIR$/GradleWebAppSample-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradleWebAppSample-master.iml" filepath="$PROJECT_DIR$/GradleWebAppSample-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aplicacion/aplicacion.iml" filepath="$PROJECT_DIR$/aplicacion/aplicacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddd-architecture.iml" filepath="$PROJECT_DIR$/ddd-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddd-architecture.iml" filepath="$PROJECT_DIR$/ddd-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddd-architecture .iml" filepath="$PROJECT_DIR$/ddd-architecture .iml" />
       <module fileurl="file://$PROJECT_DIR$/dominio/dominio.iml" filepath="$PROJECT_DIR$/dominio/dominio.iml" />
       <module fileurl="file://$PROJECT_DIR$/infraestructura/infraestructura.iml" filepath="$PROJECT_DIR$/infraestructura/infraestructura.iml" />
       <module fileurl="file://$PROJECT_DIR$/presentacion/presentacion.iml" filepath="$PROJECT_DIR$/presentacion/presentacion.iml" />
